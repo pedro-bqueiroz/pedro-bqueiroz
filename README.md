@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **pedro-bqueiroz/pedro-bqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Electrical Engineering student developing digital management and communication systems, with key interests in Telecommunications, Computer Systems and Optoelectronics.

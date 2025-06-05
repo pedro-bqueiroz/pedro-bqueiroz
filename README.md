@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Electrical Engineering student developing digital management and communication systems, with key interests in Telecommunications, Computer Systems and Optoelectronics.
+Electrical engineering student developing digital management and communication systems, with key interests in telecommunications, computer systems and optoelectronics.
